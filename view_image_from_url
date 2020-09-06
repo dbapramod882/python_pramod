@@ -1,0 +1,2 @@
+from IPython.core.display import Image
+Image(url='https://cdn.pixabay.com/photo/2020/08/31/20/22/stones-5533500_960_720.jpg')
